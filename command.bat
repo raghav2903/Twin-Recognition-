@@ -1,0 +1,1 @@
+"C:\Program Files\MATLAB\MATLAB Production Server\R2015a\bin\matlab.exe" -nodisplay -nosplash -nodesktop -r "run('R:\2nd sem - MS\PR\TWIN\TwinRecognition.m');"
